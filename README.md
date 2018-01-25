@@ -1,6 +1,6 @@
 # C-DAC_Android_Project
 
-##SQLite Manager(Named Assassins)
+##SQLite Manager(Assassins)
 
 
 This is the source code for the third party SQLite Manager For Android with Authentication.
